@@ -1,0 +1,81 @@
+/*Sean Conrad Udacity Front End Neighborhood Map Project September 2016*/
+
+
+body {
+	height: 100vh;
+}
+
+.container {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	display: flex;
+}
+
+.default-list {
+	width: 100%
+}
+
+.btn {
+	white-space: normal;
+}
+
+.row {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+
+.favorites-list {
+	list-style: none;
+	padding: 0;
+	margin-left: 5px;
+}
+
+.nearby-places-list {
+	padding-left: 5px;
+	list-style: none;
+}
+
+.nearby-items-list .collapse {
+	
+}
+
+.master-list-container {
+	height: 100%;
+	width: 20%;
+	position: relative;
+}
+
+.weather-container {
+	width: auto;
+	position: absolute;
+	bottom: 0;
+	margin-bottom: 15px;
+}
+
+.map {
+	height: 100%;
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
